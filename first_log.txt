@@ -1,0 +1,2 @@
+This is the first log file added through GIT to GIT Hub
+
